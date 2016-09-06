@@ -1,0 +1,20 @@
+{
+  "name": "ireact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ftarlaci/iReact.git"
+  },
+  "author": "FT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ftarlaci/iReact/issues"
+  },
+  "homepage": "https://github.com/ftarlaci/iReact#readme"
+}
